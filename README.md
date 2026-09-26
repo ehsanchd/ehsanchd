@@ -1,3 +1,5 @@
+<!-- GitHub Profile README for Muhammad Ehsan Ullah (github.com/ehsanchd) -->
+
 <div align="center">
 
 <!-- Animated wave header -->
@@ -15,8 +17,8 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=ehsanchd&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/ehsanchd?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="followers"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ec27e?style=for-the-badge" alt="status"/>
 </p>
 
@@ -75,7 +77,7 @@ fun_fact: "I enjoy turning research papers into working, deployable AI systems"
 
 **Programming & Development**
 
-<img src="https://skillicons.dev/icons?i=py,dart,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,dart,js,html,css,git,github&theme=dark" />
 
 **Data Science & ML**
 
@@ -206,26 +208,11 @@ Automated workflows connecting APIs, Telegram bots, and webhooks for streamlined
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanchd&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake animation"/>
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="contribution snake animation"/>
-<!--END_SECTION:waka-->
-
-<sub>⚙️ Generated automatically by the GitHub Actions workflow included below (`snake.yml`).</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanchd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff"/>
 
 </div>
 
@@ -245,20 +232,18 @@ Automated workflows connecting APIs, Telegram bots, and webhooks for streamlined
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/iehsanullah" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:ichdehsan@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/your-username" target="_blank">
+<a href="https://github.com/ehsanchd" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://kaggle.com/your-kaggle" target="_blank">
+<a href="https://www.kaggle.com/ehsanzx" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-
-<sub>Replace the placeholder links above (linkedin / email / kaggle) with your real profiles.</sub>
 
 </div>
 
