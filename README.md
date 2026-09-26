@@ -75,7 +75,7 @@ fun_fact: "I enjoy turning research papers into working, deployable AI systems"
 
 **Programming & Development**
 
-<img src="https://skillicons.dev/icons?i=py,dart,js,html,css,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,dart,git,github&theme=dark" />
 
 **Data Science & ML**
 
@@ -201,8 +201,8 @@ Automated workflows connecting APIs, Telegram bots, and webhooks for streamlined
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ehsanchd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanchd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9"/>
 
 <br/>
 
